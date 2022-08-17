@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("i love java");
         System.out.println("payment of update code");
+        System.out.println("master commit");
     }
 }
