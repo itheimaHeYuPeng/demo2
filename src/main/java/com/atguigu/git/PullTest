@@ -1,0 +1,5 @@
+public class PullTest {
+    public static void main(String[] args) {
+        System.out.println("从GitHub远程库开始pull代码到本地库....");
+    }
+}
